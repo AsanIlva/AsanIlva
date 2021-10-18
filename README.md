@@ -1,4 +1,4 @@
-- 👋 Hi, I’m August Pasan De Silva @AsanIlva
+- 👋 Hi, I’m "Auguste" Pasan De Silva @AsanIlva
 - 👀 I’m interested in styling and frontend development.
 - 🌱 I’m currently learning JavsScript and it's frameworks and libraries.
 - 📫 My email pasanderaw1212@gmail.com
