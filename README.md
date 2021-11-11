@@ -1,7 +1,9 @@
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" /></h1>
 - 👀 I’m interested in CSS both vanilla and different frameworks.
 - 🌱 I’m currently learning JavaScript programming language and it's frameworks and libraries.
-- 📫 My email is *pasanderaw1212@gmail.com*
+
+<p align="left">
+  <a href="mailto:pasanderaw1212@gmail.com">My Mail</a>
 
 <!---
 AsanIlva/AsanIlva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 I'm Pasan, and I'm a **Developer** & **UI/UX Designer** from Adelaide 🇦🇺
 
 - 👨🏽‍💻 &nbsp;&nbsp; Currently designing my **portfolio**
-- 🎓 &nbsp; Full Stack Bootcamp **M1** in Adelaide UNiversity **@HETIC**
+- 🎓 &nbsp; Full Stack Bootcamp in Adelaide University **@HETIC**
 - 🤖 &nbsp; Currently learning **JavaScript**
 - 📚 &nbsp; I'm currently going through [*Node js with Test Driven Development
 *](https://www.udemy.com/course/test-driven-development-with-nodejs/)
