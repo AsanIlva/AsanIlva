@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript programming language and it's frameworks and libraries.
 
 <p align="left">
-  <a href="mailto:pasanderaw1212@gmail.com">My Mail</a>
+  <a href="mailto:pasanderaw1212@gmail.com">My Mail <img src="https://giphy.com/embed/3oz8xSwIOv5FGhZFjq" height="32"/ ></a>
 
 <!---
 AsanIlva/AsanIlva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 I'm Pasan, and I'm a **Developer** & **UI/UX Designer** from Adelaide 🇦🇺
 
 - 👨🏽‍💻 &nbsp;&nbsp; Currently designing my **portfolio**
-- 🎓 &nbsp; Full Stack Bootcamp in Adelaide University **@HETIC**
+- 🎓 &nbsp; Full Stack Bootcamp in Adelaide University
 - 🤖 &nbsp; Currently learning **JavaScript**
 - 📚 &nbsp; I'm currently going through [*Node js with Test Driven Development
 *](https://www.udemy.com/course/test-driven-development-with-nodejs/)
