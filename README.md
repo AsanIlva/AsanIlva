@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript programming language and it's frameworks and libraries.
 
 <p align="left">
-  <a href="mailto:pasanderaw1212@gmail.com" alt="Mail"><img height="37" src="https://giphy.com/embed/3oz8xSwIOv5FGhZFjq"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:pasanderaw1212@gmail.com" alt="Mail"><img height="37" src="https://giphy.com/gifs/mail-petscii-3oz8xSwIOv5FGhZFjq?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term="></a>&nbsp;&nbsp;&nbsp;
 
 <!---
 AsanIlva/AsanIlva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
