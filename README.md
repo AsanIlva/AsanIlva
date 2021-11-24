@@ -7,6 +7,7 @@
 
 ## My portfolio website
 https://asanilva.github.io/bugless-decaf-portfolio/
+https://bugless-decaf-portfolio.pages.dev/
 
 <!---
 AsanIlva/AsanIlva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
