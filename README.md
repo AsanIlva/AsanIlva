@@ -5,8 +5,8 @@
 <p align="left">
   <a href="mailto:pasanderaw1212@gmail.com" alt="Mail"><img height="37" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMTIuNzEzbC0xMS45ODUtOS43MTNoMjMuOTcxbC0xMS45ODYgOS43MTN6bS01LjQyNS0xLjgyMmwtNi41NzUtNS4zMjl2MTIuNTAxbDYuNTc1LTcuMTcyem0xMC44NSAwbDYuNTc1IDcuMTcydi0xMi41MDFsLTYuNTc1IDUuMzI5em0tMS41NTcgMS4yNjFsLTMuODY4IDMuMTM1LTMuODY4LTMuMTM1LTguMTEgOC44NDhoMjMuOTU2bC04LjExLTguODQ4eiIvPjwvc3ZnPg==">My Mail</a>
 
-## Website link of my portfolio website
-[https://asanilva.github.io/bugless-decaf-portfolio/] (https://asanilva.github.io/bugless-decaf-portfolio/)
+## My portfolio website
+https://asanilva.github.io/bugless-decaf-portfolio/
 
 <!---
 AsanIlva/AsanIlva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -54,12 +54,12 @@ I'm Pasan, and I'm a **Developer** & **UI/UX Designer** from Adelaide 🇦🇺
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 November, 2021 - 10 November, 2021
+Week: 16 November, 2021 - 22 November, 2021: Total Time Spent :- approx 21 hours
 
-Vanilla JavaScript    3 hrs 3 mins    █████████████▓░░░░░░░░░░░   54.50 % 
-Node.js      1 hr 49 mins    ████████░░░░░░░░░░░░░░░░░   32.47 % 
-Express   27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Other     12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+ExpressJs   █████████████████░░░░░░░ 71%
+Jest   ███░░░░░░░░░░░░░ 19%
+NodeJs   █░░░░░░░░░░░░░░░░░░░ 5%
+Other   █░░░░░░░░░░░░░░░░░░░ 5%
 ```
 <!--END_SECTION:waka-->
 
