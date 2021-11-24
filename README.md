@@ -6,7 +6,7 @@
   <a href="mailto:pasanderaw1212@gmail.com" alt="Mail"><img height="37" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMTIuNzEzbC0xMS45ODUtOS43MTNoMjMuOTcxbC0xMS45ODYgOS43MTN6bS01LjQyNS0xLjgyMmwtNi41NzUtNS4zMjl2MTIuNTAxbDYuNTc1LTcuMTcyem0xMC44NSAwbDYuNTc1IDcuMTcydi0xMi41MDFsLTYuNTc1IDUuMzI5em0tMS41NTcgMS4yNjFsLTMuODY4IDMuMTM1LTMuODY4LTMuMTM1LTguMTEgOC44NDhoMjMuOTU2bC04LjExLTguODQ4eiIvPjwvc3ZnPg==">My Mail</a>
 
 ## Website link of my portfolio website
-[https://asanilva.github.io/bugless-decaf-portfolio/]
+[https://asanilva.github.io/bugless-decaf-portfolio/] (https://asanilva.github.io/bugless-decaf-portfolio/)
 
 <!---
 AsanIlva/AsanIlva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
