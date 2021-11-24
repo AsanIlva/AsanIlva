@@ -70,7 +70,6 @@ Other   █░░░░░░░░░░░░░░░░░░░ 5%
 <!-- <a href="#" alt="clang"><img height="35" src="https://svgshare.com/i/Ntk.svg"></a>&nbsp;&nbsp; -->
 <!-- <a href="#" alt="vue"><img height="33" src="https://svgshare.com/i/Rmd.svg"></a>&nbsp;&nbsp; -->
 
-<a href="#" alt="javascript"><img height="33" src="https://github.com/blackcater/blackcater/blob/main/images/logo-javascript.svg"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" alt="nodejs"><img height="37" src="https://github.com/blackcater/blackcater/blob/main/images/logo-nodejs.svg"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" alt="typescript"><img height="33" src="https://github.com/blackcater/blackcater/blob/main/images/logo-typescript.svg"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" alt="expressjs"><img height="34" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"></a>&nbsp;&nbsp;&nbsp;
