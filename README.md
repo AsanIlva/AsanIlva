@@ -23,6 +23,8 @@ You can click the Preview link to take a look at your changes.
   
 <a href="https://app.daily.dev/prolikefic1"><img src="https://api.daily.dev/devcards/63e7426909aa4c4aa48c8d8e86caaf3f.png?r=14j" width="400" alt="Pasan De Silva's Dev Card"/></a>
   
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Pasan De Silva's Dev Card"/></a>
+  
 <img width="42%" padding-left="-20px" align="right" alt="Community" src="https://images.unsplash.com/photo-1506452819137-0422416856b8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1673&q=80"/>
 <!-- <img width="42%" padding-left="-20px" align="right" alt="Community" src="https://miro.medium.com/max/7768/1*Idi-al0XeVklnd64ji8TrA.png"/> -->
 <!-- <img width="47%" padding-left="-20px" align="right" alt="Challenge" src="https://images.unsplash.com/photo-1630514969818-94aefc42ec47?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=774&q=80"/> -->
