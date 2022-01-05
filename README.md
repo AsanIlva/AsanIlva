@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <img width="42%" align="right" alt="Scrolling" src="https://s8.gifyu.com/images/scrolling.gif"/>
 -->
     
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Asanilva/Asanilva/blob/main/devcard.svg" padding-left="-20px" align="right" width="400" alt="Pasan De Silva's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Asanilva/Asanilva/blob/main/devcard.svg" padding-left="-40px" align="right" width="400" alt="Pasan De Silva's Dev Card"/></a>
   
 I'm Pasan, and I'm a **Developer** & **UI/UX Designer** from Adelaide 🇦🇺
 
